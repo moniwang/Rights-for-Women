@@ -1,0 +1,53 @@
+body {
+  padding-top: 50px;
+}
+.Style {
+  padding-top: 40px 15px;
+  text-align: center;
+}
+.carousel-caption {
+  color: White;
+}
+
+.dropdown{
+  text-decoration: none;
+}
+.hi {
+  padding-top:50px;
+}
+
+#matters{
+  background-image: url("Cool.png");
+  max-height:200px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-decoration: none;
+  margin:0;
+}
+
+#Opinion{
+  padding-top:50px;
+  background-image: url("Coolio.png");
+  max-height:1000px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-decoration: none;
+  margin:0;
+}
+
+#Water{
+  padding-top:50px;
+  background-image: url("Water.gif");
+  max-height:1000px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-decoration: none;
+  margin:0;
+  color:White;
+}
